@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ooa0opf+eqIncr2NUGeEbpme2LwofgLgDoW7/aOHSc0hYULSwbt1SwPk4UNS9HbcpqZIDN3Ddo+UTRKD1cFFpg==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Mulesoft\\repos\\api-test-work-tree\\dotnetcore\\FluentModelValidation\\FluentModelValidation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amit.Kakkar\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\Amit.Kakkar\\.nuget\\packages\\fluentvalidation.aspnetcore\\8.6.2\\fluentvalidation.aspnetcore.8.6.2.nupkg.sha512",
+    "C:\\Users\\Amit.Kakkar\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\8.6.2\\fluentvalidation.dependencyinjectionextensions.8.6.2.nupkg.sha512",
+    "C:\\Users\\Amit.Kakkar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Amit.Kakkar\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

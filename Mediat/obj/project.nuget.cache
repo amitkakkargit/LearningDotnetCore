@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "F3zGtgK5xaO+wVuajrj8v9fS1fYrutKl6ZZWm+QvWcgIqTecYZsaYCw7CapBd/eaF5yRlGbJksWzHJtjbwmoaw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\repos\\learning\\dotnetcore\\Mediat\\Mediat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Amit.Kakkar\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
+    "C:\\Users\\Amit.Kakkar\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.1.0\\mediatr.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
+    "C:\\Users\\Amit.Kakkar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
